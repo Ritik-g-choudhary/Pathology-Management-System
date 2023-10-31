@@ -23,21 +23,21 @@ npm install
 # Example usage
 npm start
 
-Documentation
-Include links to any documentation or user guides you have created for your system. If you have a live demo, mention it here.
+## Documentation
 
-Contributing
-Explain how others can contribute to your project. Include guidelines for reporting issues and submitting pull requests.
 
-License
+## Contributing
+
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-Author: Ritik Choudharu
+## Contact
+Author: Ritik Choudhary(+91 7024564092)
 GitHub: https://github.com/Ritik-g-choudhary
 Feel free to reach out for questions, suggestions, or collaborations.
 
 Acknowledgements
-Mention any libraries, tools, or resources you used and give credit to their authors.
+Apex Pathology Lab Phopnar Burhanpur India
 
 Thank you for checking out the Pathology Management System! We hope it proves valuable for your clinic or laboratory. If you find any issues or have suggestions, please open an issue or submit a pull request. Your contributions are appreciated!
